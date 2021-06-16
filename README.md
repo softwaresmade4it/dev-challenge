@@ -1,7 +1,7 @@
 <h2>Desafio para candidatos à vaga de Desenvolvedor PHP</h2>
     <p>Olá caro dev, nesse teste analisaremos seu conhecimento geral e inclusive velocidade de desenvolvimento. Abaixo explicaremos tudo o que será necessário.</p>
 <h2>Instruções:</h2>
-    <p>O desafio consiste em implementar uma aplicação Web seus conhecimentos em PHP, e um banco de dados relacional MySQL ou Postgres, a criação das tabelas é livre para sua implementação.</p>
+    <p>O desafio consiste em implementar uma aplicação Web seus conhecimentos em PHP, e um banco de dados relacional MySQL ou PostgreSQL, a criação das tabelas é livre para sua implementação.</p>
     <p>Você vai criar uma aplicação de cadastro e uma movimentação como por exemplo: cadastro de tarefas com seus estados à fazer, fazendo e concluído, com as seguintes funcionalidades:</p>
     <li>CRUD de clientes</li>
     <li>CRUD de produtos ou serviços</li>
