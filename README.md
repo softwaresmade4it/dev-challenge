@@ -40,5 +40,8 @@
         <li>Legibilidade</li>
         <li>Comentários</li>
         <li>Estrutura do banco</li>
+        <li> teste </li>
         <li>Iremos avaliar seu progresso mesmo que não consiga finalizar todo o teste!</li>
     </ul>
+
+   
