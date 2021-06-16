@@ -15,7 +15,7 @@
             <li>Links para os outros CRUDs nas listagens (Ex: link para o detalhe do cliente da compra na lista de serviço)</li>
         </ul>
     </li>
-<h2>Tecnologias a serem utilizadas</h2>
+<h2>Tecnologias a serem utilizadas:</h2>
     <ul>
         <li>HTML</li>
         <li>CSS</li>
