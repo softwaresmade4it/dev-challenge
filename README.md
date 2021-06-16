@@ -41,4 +41,5 @@
         <li>Comentários</li>
         <li>Estrutura do banco</li>
         <li>Iremos avaliar seu progresso mesmo que não consiga finalizar todo o teste!</li>
+        <li>*Caso prefira siga os passos do teste e crie um repositório publico no seu github e nos envie o link para acesso*</li>
     </ul>
