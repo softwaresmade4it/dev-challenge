@@ -25,7 +25,7 @@
     </ul>
 <h2>Entrega:</h2>
     <p>Para iniciar o teste, faça um fork deste repositório, crie uma branch com o seu nome completo e depois envie-nos o pull request. Se você apenas clonar o repositório não vai conseguir fazer push e depois vai ser mais complicado fazer o pull request.</p>
-    <p>Envie também seu LinkedIn ou currículo para: luifelix@made4it.com.br</p>
+    <p>Envie também seu LinkedIn ou currículo para: rh@made4it.com.br</p>
 <h2>Bônus:</h2>
     <ul>
         <li>Implementar autenticação de usuário na aplicação</li>
