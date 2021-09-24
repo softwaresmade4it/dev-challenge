@@ -38,6 +38,7 @@
         <li>Lógica e organização de código</li>
         <li>Separação de módulos</li>
         <li>Legibilidade</li>
+        <li>Boas práticas</li>
         <li>Comentários</li>
         <li>Estrutura do banco</li>
         <li>Iremos avaliar seu progresso mesmo que não consiga finalizar todo o teste!</li>
