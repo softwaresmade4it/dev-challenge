@@ -1,0 +1,101 @@
+*
+{
+    margin: 0;
+    padding: 0%;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+    background: #031321;
+    overflow: hidden;
+}
+ul{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+ul li{
+    list-style: none;
+}
+ul li:before{
+    content: attr(data-text);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font-size: 6em;
+    font-weight: 700;
+    pointer-events: none;
+    opacity: 0;
+
+    transition: 0.4s;
+    white-space: nowrap;
+}
+ul li:hover:before{
+    opacity: 0.1;
+    letter-spacing: 10px;
+}
+ul li a{
+    position: relative;
+    display: inline-block;
+    padding: 6px 15px;
+    text-decoration: none;
+    background: #0f8b2a;
+    color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    overflow: hidden;
+    transition: 0.4s;
+    z-index: 1;
+}
+ul li a.red{
+    position: relative;
+    display: inline-block;
+    padding: 6px 15px;
+    text-decoration: none;
+    background: #8b0f49;
+    color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    overflow: hidden;
+    transition: 0.4s;
+    z-index: 1;
+}
+ul:hover li a{
+    opacity: 0;
+}
+ul li a:hover{
+    transform: scale(1.5);
+    z-index: 1000;
+    background: #0ad61b;
+    opacity: 1;
+}
+
+ul li a.red:hover{
+    transform: scale(1.5);
+    z-index: 1000;
+    background: #ec16b7;
+    opacity: 1;
+}
+
+ul li a:before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100px;
+    width: 80px;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255,255,255,0.8));
+    transform: skewX(35deg);
+    transition: 0s;
+    opacity: 0.7;
+}
+ul li a:hover:before{
+    left: calc(100% + 100px);
+    transition: 0.4s;
+    transition-delay: 0.1s;
+}
