@@ -4,13 +4,11 @@
     <p>O desafio consiste em implementar uma aplicação Web seus conhecimentos em PHP, e um banco de dados relacional MySQL ou PostgreSQL, a criação das tabelas é livre para sua implementação.</p>
     <p>Você vai criar uma aplicação de cadastro com as seguintes funcionalidades:</p>
     <li>CRUD de produtos</li>
-    <li>
         <ul>
             <li>Os itens listados deverão ser filtráveis e ordenável por qualquer campo</li>
             <li>Deve possuir formulários para criação e atualização</li>
             <li>Deve permitir a deleção de qualquer item de sua lista</li>
         </ul>
-    </li>
 <h2>Tecnologias a serem utilizadas:</h2>
     <ul>
         <li>HTML</li>
